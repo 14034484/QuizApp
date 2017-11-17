@@ -41,7 +41,7 @@ namespace QuizApp
                 Answer = "Playstation 4",
                 Catagorie = "Gaming",
                 Moeilijkheidsgraad = 3
-                },
+                }/*,
                 new ChoiceQuestionCard() {
                 Question = "In welke programmeertaal is deze app gemaakt?",
                 Answer = "C#",
@@ -62,7 +62,7 @@ namespace QuizApp
                 Choices = new List<string>(){"P=U*I", "R=U/I", "U=I*R"},
                 Catagorie = "Natuurkunde",
                 Moeilijkheidsgraad = 2
-                }
+                }*/
             };
         
             goodAnswers = 0;
